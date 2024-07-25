@@ -33,7 +33,7 @@ This project provides a simple HTTP/HTTPS file server using Flask, with a graphi
 
 1. Run the script:
     ```sh
-    python ftp_server.py
+    python file_server_python_flask_with_tk.py
     ```
 
 2. Use the GUI to:
@@ -97,7 +97,7 @@ dev by meen
 
 1. รันสคริปต์:
     ```sh
-    python ftp_server.py
+    python file_server_python_flask_with_tk.py
     ```
 
 2. ใช้ GUI เพื่อ:
